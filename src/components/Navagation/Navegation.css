@@ -1,0 +1,21 @@
+.text-decoration-none{
+    color: #344d67;
+   }
+   
+   .active{
+       background-color: #6eccaf;
+       border-radius: 5px;
+       padding: 10px;
+   }
+   
+   .Arriba{
+   background-color: #344d67 !important;
+   padding: 65px;
+   
+   }
+   
+   .titulo{
+   color: #6eccaf!important ;
+   
+   
+   }
